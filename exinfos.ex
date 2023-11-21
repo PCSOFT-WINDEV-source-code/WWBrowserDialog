@@ -1,0 +1,9 @@
+[INFOS]
+gaf=0
+title=WWBrowserDialog
+image=description.gif
+description=description.rtf
+source=0
+typesite=0
+[OBJECT]
+WWBrowserDialog.WWP=4096

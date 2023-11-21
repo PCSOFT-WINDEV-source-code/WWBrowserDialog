@@ -1,0 +1,103 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WWBrowserDialog
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : WWBrowserDialog
+    internal_properties : CAAAAAgAAAC41wOOtrtDmnAWvnR0/Ps7wQm1wBwWNlOPqxpNMC1TUmqq5Oskjo1YM18ljrwXkiFR84pe5QSp/KR4V1Rb7izUNmriB9LBTubpWtDOA/7oCBz2CMlAeKb6Pn7hrr4ZsTO02bWqI9Q6lsMpYzlgaLYV968Y6yY9Dg6F5P8TTfKee1T8bJRAOK3R3UbrpMiFl4QgWW74ummJjqKySQwxxeNSLMykTuqJ5YzsdEvJtm0yqa4PSzghL7I0shxTnfVzbjX8mjVyC/sKno9RMWRXPmJhQPXMUA6kJgoi21IdrPJiBwTGwAH7t1s7cxVaScdOONnF0t1K3r+plYBUXFmJEvstRCZW36/PL/FTP2L1ibVLVUJVTJou9CArcbKe1Rw7SDblPO8u1V4DknkfUxf8AoR6EOVMeC+4ffjf7g501g+Yn2s1GFXJ5Jil+s0m2BHK97G2iXU2COasME8KBvtu9wOWi/+q9So0HFKX02M5i3BZSPZvEtzkecT4DxASgcwBBe/h4y57gfK27U7klk+fcBwvbtLaiX7fJDb5mMgI/OyKwy51/7qLUViWonxIgk47mDPftAouIw0qnE5f5RsXR8bkZ5Sq3ur7atj0SEVd9HUVHok2KwjUMKpL+QwZ86mXBRyhXeg5+S0QdS+KSZkZzGaeH+xDkIcR729TA0epxI0Orn77Z9oriMBbjKtvxaYHh2czSWMBT07NeoS64nL8+uyJKcsJLS7WobZbG6hsFPQICc8XsUYrSeojed5HfVIlBWu/1efwJ/vKK9OGWWByabJkL5+W/UHjl2E5ZP2OdWl8maSAeCTCxItX6521xZK5CkFfONYcX02UHgnUDP5TS4fiuiFqMTL72XVxTRHN7mCVKiSmigBMvOUMxcER20kPa/U1g/HJee6Jq/mV4x5JZ0KTBGH/emGZrhD+31R4p29aat/c34Mau7dLdp/SfHg4k6AWLg1QxLaZi+HYEzR7SIIui4OwHnuT95G6TtsXgLSZxN5GwBXUM/rbe7W0+XnZDwX0ZvKB4w3nXdAQ3K6+nk7To5emE2uSMdKhZbXhUS+yrGKY2nQkHE2FcS6blkuKWxxoVdYWC5oZ+q9aNamiWZ1qBw5lXHjuITxcWhv7cuBVKkoHx9XvBtogXtYbMxUlzpuuunTcF2DiSaXJ4Az4RhMSgqG6iFUz3OhBDuuDpXWapzgbXcqIKVNMn70FQC2xhqdmzeiqukDBs6zNcbBsoensomaOL67XWYiRQQFS26tQOZZ9JaW8O7uBlx1jvQvHefcsgCKlWEMag0Lb2gRzuKnOU9/c8c/qqCNS4nTJbfymx7XsFkYIU4siPolhyyoAa01fgVCwzF+3x5FV6+FxfDh6bAJYtCjttdNZun4w//mVT2z1PytpemWJp9U/CUwxmc0Zz2s4FL7MFrEEWzDD5atYoudMK+3d/rncuGUkeAh6H8+5YW+24ZQfUoQKGv1Ey18kiFUWg+noPVwcOegaQPE5V8zGvc3Vpiq8zUNNnSE3WqMFyujr/qGpKvNr5TJ38i+muvwi8GF/utCCAIy0lDN6Am4JQ18ZNeMsyrZpJIAYGVNF89r9UKp+AO/ioGn1EhhJ9mjf6KShQWnYJJPIxOj/FXQ82ABnnfoC+A3TTIz7VgU1HqBwOyfgnwZUTa0Vp6NJDZHww8rZtB1gwAGntusTihPLlynYqo/DGJ/M461iiVTji8dgqZJUf5EzxJoTIWRFcm0djy98xFziOdyWHUp4dF8qbnXnvObA34V7nV7j+DPQkFaFwcLF+p399L4ligIRrkls8jeRbtMJWDUNmfpjOX0/OzL/1MHMuKBN19YzFnjbEznHk/TgDDDtX4CpsKEf9LsWAbqdtvoEWG/TSvqrLDbLrt8bCbR6LCqJTvbFslYsqop2648bvEC0dTjkM1G78JUW9yvSEGMG7DC0aDP5aKtVlI9S/aogqPKuKwSaO/k/qUxySv8uDbYwCJakwtGx0D+79y/nDb24LdeP92R1zEn8Ut3Gj1qJPhMRrB4h5BhwlOIlImEmw0DQBUzY/G4qbWKj+Mc6EZ8xuPx0DAbdGZv1k6zeE04IfyWAEuwfEytYfK+3lTdXJcStTxPBl2rtsPhv8v2ifgwPhU3sHVHqqxTcgGLLXuTHpnj0jc0svr4fLvxxVYBJTIfUU+W4q1PshtplQP9wiUhIR81JWkG00jzgXD8FLvnKx90vdykcS/1QiPq4bof1ZdjBkOa3JTVwYJfnuWalnMj/oExlVV5lhMKMmkeM+ciHBpbGRMSQQP968QketF4ft+e46/ENt34YGyBMFmGQ/4wjOylECDs8sE+xIygCkbgWxUT5X+26fDPtnkt+dz3EvPx/pVLV5E1pxsMBw5scg4CXfWmDGkkc3m8ftyT+aP41OIWISuN86ZBD58bRtFXMTQCz3ZnA/hlYLXd2Y2xfjFqiDCbGbf9BHZy4AplxWPymUUSekoLoqmEh0NDzPVE+GrdnPdOCXxaUDcET732ImlPaRvVZLLq5dtnBIOtQk+bCMhgdJQ5qw6+ml6nrTZNKkT7kQN7V/HVYrqq8ApgD0Vtu2nFmXv1S6TRs6MNM8KIAs5v0QQihoiOTG1mIdS5FXyxOv85fwnTYrzTl1Mo8iGZRm0FnFoivaLt+g26zvdrJ9TWPClpzSIj6qqOFOIPtz3LYwqawx1kqhVOcyX1tnhb4fcdDoQpWJeh/dS+NqJNp6YKCZQJjmqgZa5qqIH1Me6771e8po1HhbKElPAe3/kLLKUfNQrnkY0sE3HQDvcpFbmQw+ug/F8sV/esQEtsNV1oq9V6WTp45JF3JAKi80g5Cqw0cuevEnoyOFrj4Z1c3W+2/zJ2MXvzNCZbskluLpZB7qyUweuOqK+py7IOCv2yooNQIsJDPCcSIRIrbQtKxEWc84PYIsfQH1lbuo/QINB+46KLDJ3hFvEQeYXu0ecDhqwllKaQ+Og6YRg8ZFDsV7Owgk42yvuUA/VsiCNVR1cfNZtYWVD1eWOI+sf+aG6vLWUtaqYAbIt6GLLLukDLKwXOUINSATI+SyGVYDxpXGZN5QdbKMRiXhvo6qQM0eiF1306kdJ9iqYLrcTrkKsJ9CDPxCyINKhePsGPWSn/i3FiEYIZamV7Kne5BDAj/0svk9o0dR+pHurlW3obuJWhK7WqJhzJhm3RFeTxcQwH0BDYVP9dvOh5btuMbalGSm8Cg7k9XyRfptO6Xtba8keFivUrFa4PvJsf/ls9drdoNyRpll3PjBg82YZYqjQtE89X8UO2w0Mq6L7FUQKibMFAnNvAHeyquPx4J4c0yHOuxlxpesgj2sUedhImhJLmwGbVVYyxHXYTkC/6xwxZheJywhw0U+vUmvXvC5jH8xukBZS1XHXAEGzPpALenspSIF5VUIkv45AIs/YDRs+HPBC9YC8bpB7DVGve89rpdxdRxlUU+VraZVPpfmla5LImj1GkjK0p3GVOye4TklHxhdJwNGA6T44KIk0cILjFiQG7yOnI7HXEcc9mPcrXT3sMCOyCh8zSdh9eYhQ0ebmakX+C9aMNYuAWw6Yr4ztOXR5GT4ykboXxci7poUxpyVWSGkWr0lKOBs7uwhQ1/KSHSDbuY+yktf6r0gdvhw6AD20PpiYxg7AKWjaDm53usZ3I2S3YJeUtAPGQq01Pu1j7UpbO7ckCZFTAk80i1IXMz55YxXdypdxUAy32XtirdqBrT+qTvn/o5u6xMrynE6NKej/nN7cPACgvc1Y6DA2vj+6BPy0UVEzC1cNOgj9Xvdp5bjEHq6G45u6wzerNeQgy3Uj6zhkseNsjTus2bT9c2xKs47uA5X/tMn6w=
+    configuration_id : 8553662754699578131
+    type : 2
+    generation_name : WWBrowserDialog.wdl
+    version : {}
+    language : 2
+    64bits : true
+    new_features_help :
+     name : ""
+     internal_properties : CAAAAAgAAAAZ4SZUn+i57TmxxqR3etuAe6mSI8ynN0rdQwvRjnwb5buytw6Xb0biJ6xHqc6sTN3peUtaElA2yNwaFg==
+ elements :
+  identifier : 0x4b154317015a7da0
+  elements :
+   -
+     name : Global procedures of WWBrowserDialog
+     identifier : 0x3f0435bc03d02e9b
+     internal_properties : CAAAAAgAAABCOLru3YqivQfXrAiTMX16RikFlUEylUbD+5xRJRry1jqgF5l1Q4P/aN3HMfHvi31Hzw==
+     physical_name : .\Global procedures of WWBrowserDialog.wdg
+     type : 7
+   -
+     name : Global_procedures_of_WWDialog_Browser
+     identifier : 0x3f0435bd7f0f2ee9
+     internal_properties : CAAAAAgAAADUsjx4Rzx0d81hcvI1ZKMMYM0/1x0OVR6rKrFMVsnLZVO/MPAjndlVspcB/4d5AffBQQ==
+     physical_name : .\Global_procedures_of_WWDialog_Browser.wwn
+     type : 65539
+   -
+     name : PAGE_CLOSING
+     identifier : 0x3f0435c6079437d2
+     internal_properties : CAAAAAgAAABCOLru3YqivQfXrAiTBA1irv+lrUfQQcHM6j04XsFTjbe/FJx1Q4P/aN3HMfHvi31Hzw==
+     physical_name : .\PAGE_CLOSING.wwh
+     type : 65538
+   -
+     name : PAGE_Menu
+     identifier : 0x3f0435be6e5e310c
+     internal_properties : CAAAAAgAAABcOrTg34SsvzXZWlpNn4/g0HMvJ7NUTtKg7cqr71DMBDA+lRsL9TEtWs/JN//xiX9JyQ==
+     physical_name : .\PAGE_Menu.wwh
+     type : 65538
+   -
+     name : PAGE_RADIOBUTTON
+     identifier : 0x3f0435c028973254
+     internal_properties : CAAAAAgAAABJxbFVUg8nyJBkCek8LGAlIb709GYvwFL7MIvqmpV5T+ETXsJcpOJctWpUrHRsFIRM1A==
+     physical_name : .\PAGE_RADIOBUTTON.wwh
+     type : 65538
+  other_elements :
+   -
+     physical_name : .\Description.gif
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ common_generation_directory : true
+ wb_skin : 190 Evolution
+ wb_color_palette : GrayVolution
+ languages :
+  - en-GB
+ wd_style_sheet : .\WWDialog.sty
+ wb_style_sheet : .\WWDIALOG.wws
+ url_rewriting :
+  internal_properties : CAAAAAgAAADkPzcUdUUS7wCiun+MCjqYH70RJdzkSv/nRvXZ3ENdikMa6bcHtsAH
+ code_elements :
+  internal_properties : CAAAAAgAAABRlvwldmD3B3GYSltj4DNN9Icrca47SngxDvumzlQHIeGIRGvDehAJ5PdO1fgDHGn4yXVXov8K9uPAVw8Nv+t3ewAxgaYt
+  type_code : 0
+  p_codes :
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : WWBrowserDialog
+     identifier : 0x4b1544b90010e096
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : WWDIALOG10
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
